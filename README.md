@@ -28,6 +28,8 @@ Source: <https://brew.sh/>
 
 The Gemini CLI documentation lists Homebrew as a recommended installation method for macOS/Linux.
 
+Gemini CLI is useful for focused file work and inspection of local files. Its interface is a little geekier and harder to use because it runs in the terminal/command line.
+
 ```sh
 brew install gemini-cli
 ```
@@ -57,6 +59,25 @@ gemini
 Gemini CLI needs to authenticate before it can be used. Follow the sign-in or authentication prompts that appear after starting Gemini CLI.
 
 You can log in with your UC Berkeley Google account.
+
+### 7. Install the Codex Desktop App for Mac
+
+Codex is OpenAI's coding agent. On Mac, use the Codex desktop app.
+
+The Codex application is a little more user-friendly because it provides a ChatGPT-like chat experience. You can open the files it edits and use the sidebar to manage multiple sessions and chats.
+
+Go to the official Codex page and download the macOS app:
+
+<https://openai.com/codex/>
+
+After installing the app:
+
+1. Open the Codex app.
+2. Follow the authentication prompts.
+3. Sign in with your ChatGPT account.
+4. Once authenticated, use the sidebar to start or switch between Codex sessions.
+
+Source: <https://openai.com/index/introducing-the-codex-app/>
 
 ## Requirements Mentioned in the Docs
 
